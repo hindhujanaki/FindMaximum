@@ -16,16 +16,11 @@ def max_marks(marks):
     large=max(marks)
     return(large)
 
-
 ii)	# To find the maximum marks using the list method max().
 
 def max_marks(marks):
     large=max(marks)
     return(large)
-
-
-
-
 iii) # To find the maximum marks without using builtin functions.
 
 def max_marks(list1):
