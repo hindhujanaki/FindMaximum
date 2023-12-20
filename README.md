@@ -45,5 +45,8 @@ ii)	# To find the maximum marks using the list method max().
 iii) # To find the maximum marks without using builtin functions.
 ![output](./maximum3.png)
 
+
+
 ## Result:
+
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
